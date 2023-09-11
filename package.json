@@ -1,6 +1,9 @@
 {
   "name": "tailwindcss-vue3-vite-template",
   "private": true,
+  "author": {
+    "name": "zjy4fun"
+  },
   "version": "0.0.0",
   "type": "module",
   "scripts": {
