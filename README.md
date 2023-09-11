@@ -1,5 +1,6 @@
-## ref
+## vue3 + vite + ts
 
-vue3 + vite + tailwindcss
-
-https://v2.tailwindcss.com/docs/guides/vue-3-vite
+```
+npm install 
+npm run dev
+```
